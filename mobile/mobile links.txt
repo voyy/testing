@@ -1,0 +1,30 @@
+
+https://www.udemy.com/mobile-automation-using-appiumselenium-3/learn/#/
+https://www.udemy.com/appium-selenium-for-mobile-automation-testing/learn/#/
+http://appium.io/tutorial
+https://discuss.appium.io/
+https://docs.saucelabs.com/tutorials/appium/
+http://help.testdroid.com/customer/en/portal/topics/631129-appium/articles
+https://appiumforbeginners.wordpress.com/
+How to Leverage Appium in Your Mobile App Testing
+https://vimeo.com/83659894
+https://github.com/appium/appium-dot-app
+http://testdroid.com/tech/appium-on-real-devices-appium-faq
+Mobile Game Testing – Part #2: UI and Functionality + Image Recognition
+http://testdroid.com/tech/mobile-game-testing-part-2-ui-and-functionality-image-recognition
+Android & iOS automation using Appium : Getting started  
+https://www.youtube.com/watch?v=InsDgNxWlHM
+Step-by-Step Appium Webinar: Building Scalable Appium Test Automation Infrastructure
+https://www.youtube.com/watch?v=cwZrKSGdvrA
+Master Appium in 4 Steps and 11 Tutorials
+http://testautomation.applitools.com/post/99795889592/master-appium-in-4-steps-and-11-tutorials
+How to Leverage Appium in Your Mobile App Testing
+http://software-testing-tutorials-automation.blogspot.com/2015/10/appium-tutorials.html
+http://software-testing-tutorials-automation.blogspot.com/search/label/Appium
+https://w3c.github.io/webdriver/webdriver-spec.html
+http://executeautomation.com/blog/
+Test APKs
+http://software-testing-tutorials-automation.blogspot.com/2015/11/test-apps-to-use-in-appium-automation.html
+https://github.com/appium/sample-code/tree/master/sample-code/apps
+SimonK blog
+https://medium.com/@SimonKaz
